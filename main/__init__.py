@@ -15,7 +15,7 @@ logging.basicConfig(format='[%(levelname) 5s/%(asctime)s] %(name)s: %(message)s'
 API_ID = "16246834"
 API_HASH = "29b3ffa9245c07f05375b92f38e8f13d"
 BOT_TOKEN = "5716827359:AAE3NJPyZkXHATL8m3AmLVxFy0-NNhKOOog"
-SESSION = "AQAueOqsHHAEjSzuEg1g-DRFxsy441-lBw-9VUAOqF_BJ9TJzQXi38TmS35rRwRojXI8EsG0eAujf_-6rrVT1Na2qVcN93iulGpoJtyWO_CKWyUvsYDaC7v41Z4PYqZSnyhS3Hsd7R0CRhLtya1IwtEP4NZHKAp2zJebIYuV3foyn72liUr3tphhTfWA2HeQ2P29SwqKYphd8qB-nBujxuZUMEj7p6j-Lsm_ckLjvRCCcpdXy15ReqkmuYDSLGQO6nx2DaT4oWPB_ayrnZBESnjtn3J4tWEOt-I02SbWoNEZKvyVuLBpv3drB24RmQs_3JKIDPcgQkdXsgFFW11bvu8VZj4j3wA"
+SESSION = "1AZWarzMBu0xf10AC1OqoqMFUU7IPmJ0cn-QVY3q0_vSybh5eOE4D2xP5SJMphleqWndRafbyuspSw1FWy57NpD1gdNlpyVheasBR-e-WtaBYGutWF496gmG2nj1kmeYjsWGY7qmvvXQfLiOgyc-A7UsvU_t3DlgKhzoIDNePpNKtDhrv8ctCMDbvYUj94YFCZ8_dQypteEj1fi3U7c1LGbT-yHlhngca0CiR2_wdJejAgsQ1V9cLi_fFLiFtkH3loOrqLrjgT-5jbMVtJemr_6cuhQZZEjXF1CepE9L-xuXrrKVpx0EVI_LEHsa9pNgP3N2jRueUDJ5madmE4D5kZexUIX5hl68="
 FORCESUB = "executivebanget"
 AUTH = 1715348447
 
